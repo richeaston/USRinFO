@@ -16,3 +16,4 @@ About shows App information.
 Windows 7, 8, 8.1, all works fine.
 
 # Screenshots
+![alt tag](https://github.com/richeaston/USRinFO/blob/master/USRinFO.png)
